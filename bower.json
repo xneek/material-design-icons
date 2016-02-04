@@ -8,9 +8,12 @@
     "material-design",
     "google"
   ],
-  "ignore": [   "*",
+  "main": ["iconfont/*"],
+  "ignore": [
+    "*",
     "!iconfont/",
-    "!iconfont/*"	],
+    "!iconfont/*"
+  ],
   "license": "CC-BY-4.0",
   "homepage": "http://google.com/design/spec"
 }
